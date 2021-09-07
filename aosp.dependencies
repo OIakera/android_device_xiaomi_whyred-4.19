@@ -1,0 +1,32 @@
+[
+  {
+    "remote": "github",
+    "repository": "akirasupr/mercenary_kernel_xiaomi_sdm660",
+    "target_path": "kernel/xiaomi/whyred",
+    "branch": "master"
+  },
+  {
+    "remote": "github",
+    "repository": "akirasupr/android_device_xiaomi_whyred-4.19",
+    "target_path": "vendor/xiaomi/whyred",
+    "branch": "vendor"
+  },
+  {
+    "remote": "github",
+    "repository": "akirasupr/android_device_xiaomi_whyred-4.19",
+    "target_path": "hardware/qcom-caf/msm8998-whyred/display",
+    "branch": "display"
+  },
+  {
+    "remote": "github",
+    "repository": "akirasupr/android_device_xiaomi_whyred-4.19",
+    "target_path": "hardware/qcom-caf/msm8998-whyred/media",
+    "branch": "media"
+  },
+  {
+    "remote": "github",
+    "repository": "akirasupr/android_device_xiaomi_whyred-4.19",
+    "target_path": "hardware/qcom-caf/msm8998-whyred/audio",
+    "branch": "audio"
+  }
+]
